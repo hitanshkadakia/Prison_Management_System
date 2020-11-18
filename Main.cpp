@@ -1,5 +1,7 @@
 //Prison management system
 // Vansh Damania[1981009] & Hitansh Kadakia[1981018]
+// username = admin
+// password = pass
 
 #include <iostream>
 #include <conio.h>
