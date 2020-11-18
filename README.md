@@ -25,6 +25,7 @@ What is unique in the code !
 
 •	This system is easy to operate by the user.
 
+
 This code will  explain us about the details of prison management system.
 
 Once the username and password is entered 8 features will be provided
@@ -44,6 +45,7 @@ Once the username and password is entered 8 features will be provided
 7.	Logout: where you will logout of the system and will be directed back to the login page 
 
 8.	Exit: where the program will be terminated and you will exit the system
+
 
 The code will be more efficient at use.
 
