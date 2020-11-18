@@ -3,14 +3,21 @@ This system is based on a concept to enter and manage the prisoners record  This
 Prison Management System In C++
 
 
-Developed by Hitansh Kadakia (https://github.com/hitanshkadakia ) and Vansh Damania ( https://github.com/vanshdamania )
+Developed by Hitansh Kadakia ( https://github.com/hitanshkadakia ) and Vansh Damania ( https://github.com/vanshdamania )
+
 Note : Login Details
+
 	Username = admin
 	Password  = pass
+	
 What is unique in the code !
+
 •	Present time of the system will be displayed !!
+
 •	Present date of the system will be displayed !!
+
 •	Password encryption is used (if you write pass it will be printed as ****)
+
 •	Three different types of file handling has been used (text file, html file and word file)
 •	Secured management system
 •	This system is easy to operate by the user.
